@@ -89,7 +89,7 @@ async function connectToWA() {
 
       const up = `HAZIYA # connected ✅\n\nPREFIX: ${prefix}`;
       await danuwa.sendMessage(ownerNumber[0] + "@s.whatsapp.net", {
-        image: { url: `https://github.com/HAZIYA # /HAZIYA # /blob/main/images/HAZIYA #/IMG-20261122-WA7778.jpg .png?raw=true` },
+        image: { url: `https://github.com/HAZIYA # /IMG-20261122-WA7778.jpg ` },
         caption: up
       });
 
